@@ -32,7 +32,3 @@ This repository is dedicated to learning and exploring **Streamlit**, a Python f
 ## 👨‍💻 Author
 
 **Atharv Tushar Bhosale**
-
----
-
-*Learning, building and exploring interactive Python applications with Streamlit.*
