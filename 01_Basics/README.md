@@ -1,18 +1,21 @@
 # Streamlit Basics
 
-This section introduces the fundamentals of Streamlit and demonstrates how to build a basic interactive web application using Python.
+This section introduces Streamlit fundamentals and demonstrates how to build interactive web applications using Python.
 
-## 📌 Program
+## 📌 Programs
 
-**`01_streamlit_JayGanesh.py`**
-**`02_streamlit_Input.py`**
-**`03_streamlit_Button.py`**
+**01. Streamlit Introduction – `01_streamlit_JayGanesh.py`**
+- Created a basic Streamlit application using title, header and text elements.
 
-Created a basic Streamlit application using title, header and text elements to display a welcome message.
+**02. User Input – `02_streamlit_Input.py`**
+- Accepts user input using `st.text_input()` and displays a personalized welcome message.
+
+**03. Button Interaction – `03_streamlit_Button.py`**
+- Implements button functionality using `st.button()` and displays a success message.
 
 ## 🛠️ Technologies Used
 
-- **Programming Language:** Python
+- **Language:** Python
 - **Framework:** Streamlit
 
 ## 📦 Installation
@@ -29,10 +32,8 @@ streamlit run 01_streamlit_JayGanesh.py
 
 ## 🎯 Learning Objectives
 
-- Understanding Streamlit fundamentals.
-- Creating web application interfaces.
-- Using titles, headers and text elements.
-- Displaying content using Streamlit components.
+- Streamlit fundamentals and UI components.
+- Creating interactive web applications.
 
 ## 👨‍💻 Author
 
