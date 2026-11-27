@@ -5,6 +5,8 @@ This section introduces the fundamentals of Streamlit and demonstrates how to bu
 ## 📌 Program
 
 **`01_streamlit_JayGanesh.py`**
+**`02_streamlit_Input.py`**
+**`03_streamlit_Button.py`**
 
 Created a basic Streamlit application using title, header and text elements to display a welcome message.
 
