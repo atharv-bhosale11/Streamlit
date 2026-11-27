@@ -29,6 +29,8 @@ streamlit run 01_streamlit_JayGanesh.py
 
 - Understanding Streamlit fundamentals.
 - Creating web application interfaces.
+- Using titles, headers and text elements.
+- Displaying content using Streamlit components.
 
 ## 👨‍💻 Author
 
