@@ -34,6 +34,9 @@ streamlit run 01_streamlit_JayGanesh.py
 
 - Streamlit fundamentals and UI components.
 - Creating interactive web applications.
+- Handling user input and button events.
+- Displaying dynamic messages using Streamlit.
+
 
 ## 👨‍💻 Author
 
