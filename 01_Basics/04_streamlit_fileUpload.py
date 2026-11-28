@@ -8,4 +8,4 @@ uploaded_file = st.file_uploader(
 )
 
 if uploaded_file:
-    st.success()
+    st.success("Your PDF Uploaded Successfully")
