@@ -27,7 +27,6 @@ This repository is dedicated to learning and exploring **Streamlit**, a Python f
 - Interactive Dashboards
 - Machine Learning Applications
 - Deep Learning Applications
-- Generative AI Applications
 
 ## 👨‍💻 Author
 
