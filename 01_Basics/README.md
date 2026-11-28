@@ -39,6 +39,7 @@ streamlit run 01_streamlit_JayGanesh.py
 - Creating interactive web applications.
 - Handling user input and button events.
 - PDF file uploading and handling.
+- Displaying dynamic messages using Streamlit.
 
 ## 👨‍💻 Author
 
