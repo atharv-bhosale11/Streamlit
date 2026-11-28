@@ -7,7 +7,7 @@ uploaded_file = st.file_uploader(
     "Upload PDF",
     type=["pdf"]
 )
-
+ 
 if uploaded_file:
     pdf_reader = PyPDF2.PdfReader(uploaded_file)
     text = ""
