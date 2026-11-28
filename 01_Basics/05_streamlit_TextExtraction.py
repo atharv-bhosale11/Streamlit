@@ -1,4 +1,5 @@
 import streamlit as st
+import PyPDF2
 
 st.title("Welcome to My PDF Page")
 
