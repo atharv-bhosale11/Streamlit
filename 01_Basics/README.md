@@ -13,6 +13,9 @@ This section introduces Streamlit fundamentals and demonstrates how to build int
 **03. Button Interaction – `03_streamlit_Button.py`**
 - Implements button functionality using `st.button()` and displays a success message.
 
+**04. PDF File Upload – `04_streamlit_fileUpload.py`**
+- Allows users to upload PDF documents using `st.file_uploader()` and displays a success message after uploading.
+
 ## 🛠️ Technologies Used
 
 - **Language:** Python
@@ -35,8 +38,7 @@ streamlit run 01_streamlit_JayGanesh.py
 - Streamlit fundamentals and UI components.
 - Creating interactive web applications.
 - Handling user input and button events.
-- Displaying dynamic messages using Streamlit.
-
+- PDF file uploading and handling.
 
 ## 👨‍💻 Author
 
