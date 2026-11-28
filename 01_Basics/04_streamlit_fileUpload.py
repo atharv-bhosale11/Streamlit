@@ -7,5 +7,5 @@ uploaded_file = st.file_uploader(
     type=["pdf"]
 )
 
-if uploaded_file:
+if uploaded_file: 
     st.success("Your PDF Uploaded Successfully")
